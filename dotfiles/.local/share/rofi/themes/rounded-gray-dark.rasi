@@ -1,0 +1,11 @@
+* {
+fg3: #6a6a6a;
+fg1: #ffffff;
+bg1: #00000000;
+bg0: #0F1E25ad;
+bg3: #3F885Ef2;
+fg2: #3F885E;
+bg2: #54986C80;
+fg0: #d9e5be;
+}
+@import "rounded-common.rasi"
