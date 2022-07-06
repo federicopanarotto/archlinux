@@ -8,6 +8,9 @@
  - THUNAR
  - ADWAITA-DARK
  - PYWAL
+
+Install these program using pacman or your package manager  
+Pywal requires an AUR helper to install (I suggest you yay)
  
  ## THEMES
 
