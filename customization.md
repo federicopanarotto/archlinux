@@ -127,14 +127,7 @@ Now we have to add this line in xinitrc configuration
 
 
 ## 
-#### Other
+#### Next
 
-python-pywal
-c
-
-
-
-
-
-
-
+To install other feature you need a lot of time lol  
+To make my configuration I have spent a week, so watch the dotfiles
