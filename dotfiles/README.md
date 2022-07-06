@@ -9,4 +9,4 @@ PROGRAMS TO INSTALL
  - ADWAITA-DARK
  - PYWAL
 
- ![alt text](https://imgur.com/a/T9GTsnh)
+ ![](https://i.imgur.com/3ykq1sh.jpg)
